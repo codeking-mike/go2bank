@@ -1,0 +1,7 @@
+#bm svg{position:relative;z-index:1;left:0;min-width:270px;max-height:340px;top:28px}
+@media(min-width:1024px){#bm svg{position:absolute;padding-top:39px;top:0;left:-73px;min-width:586px;max-height:unset;height:auto !important}
+}
+@media(min-width:71.25rem) and (max-width:93.75rem){#Go2bankhomepagevariationv2desktop{min-height:31.25rem}
+}
+@media(min-width:93.75rem){#Go2bankhomepagevariationv2desktop{min-height:34.375rem}
+}
